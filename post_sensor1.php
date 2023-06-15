@@ -63,7 +63,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         }
     } 
 else {
-        echo "Tidak ada Data yang dikirim";
+        echo "Tidak ada Daata yang dikirim";
 }
 
 function test_input($data) {
